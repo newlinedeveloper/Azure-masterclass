@@ -1,0 +1,24 @@
+## Azure Fundamentals
+
+- Introduction
+- Create a Virtual Machine in the Portal
+- Create a Web App
+- Deploy Azure Container Instances
+- Create a Virtual Network
+- Create Blob Storage
+- Create a SQL Database
+- Implement an Azure IoT Hub
+- Implement Azure Functions
+- Create a VM with a Template
+- Create a VM with PowerShell
+- Create a VM with the CLI
+- Implement Azure Key Vault
+- Secure Network Traffic
+- Manage Access with RBAC
+- Manage Resource Locks
+- Implement Resource Tagging
+- Create an Azure Policy
+- Explore the Trust Center
+- Use the Azure Pricing Calculator
+- Use the Azure TCO Calculator
+- Open a Support Request
